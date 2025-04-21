@@ -31,6 +31,7 @@ The aim of this project is to explore **Natural Language Processing techniques**
 - The complete dataset size is approximately **4–5 GB**.
 - Each audio is in `.mp3` format with a sample rate of 44.1 kHz.
 - For performance reasons, you might want to download the dataset via (https://drive.google.com/drive/folders/1WBYttRQbxP7lEwCQfKQE1qH7_2_DMWPm?usp=sharing) (if you're offloading the raw files).
+- for transcripts generated from audio https://drive.google.com/drive/folders/1mQJJiTtvviKnpGBFMPG3IGMpJ2udI3Vd?usp=sharing
 
 ## 🚀 Getting Started
 
